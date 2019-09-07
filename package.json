@@ -4,9 +4,14 @@
   "private": true,
   "homepage": "https://chanduchegu.github.io/library_project",
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "fontawesome": "^5.6.3",
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-gesture-gallery": "^1.1.0",
+    "react-gesture-responder": "^2.1.0",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1"
   },
   "scripts": {
